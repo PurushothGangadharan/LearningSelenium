@@ -12,8 +12,8 @@ public class FacebookLogin {
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 		driver.manage().window().maximize();
-		driver.findElement(By.id("email")).sendKeys("9514939544");
-		driver.findElement(By.id("pass")).sendKeys("purushoth rio");
+		driver.findElement(By.id("email")).sendKeys("***");
+		driver.findElement(By.id("pass")).sendKeys("***");
 		driver.findElement(By.name("login")).click();
 }
 }
