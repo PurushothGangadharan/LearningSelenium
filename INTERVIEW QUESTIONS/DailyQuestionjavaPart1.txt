@@ -89,9 +89,9 @@ String is a sequence of character.And String is a non-premitive datatype.
 
 Two ways to create a String object in java,
 
-	*By String Literal => String text="bobby";
+	*By String Literal => String text="abc";
 
-	*By new keyword  => String text=new String("bobby");
+	*By new keyword  => String text=new String("abc");
 
 
 
